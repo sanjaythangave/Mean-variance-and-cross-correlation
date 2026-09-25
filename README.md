@@ -28,6 +28,8 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 # TABULATION
 
 <img width="652" height="1310" alt="image" src="https://github.com/user-attachments/assets/c71e7bbf-8c8b-46be-ac1b-6af74bf595b9" />
+
+
 # PROGRAM
 clear;
 clc;
