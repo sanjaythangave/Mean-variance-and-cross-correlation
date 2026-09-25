@@ -106,6 +106,10 @@ Cross Correlation
 Type in the reference sequence = [1 2 3 4 5 6 7 8]
 
 Type in the second sequence = [2 1 3 5 6 3 5 9]
+
+# GRAPH
+<img width="2794" height="1644" alt="image" src="https://github.com/user-attachments/assets/1f106aea-00a1-4fda-b60c-20bae622f53d" />
+
  
 
 # RESULT:
